@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Sandu (@U82146510)
+# 👋 Hi there, I’m Sandu
 
 I'm a passionate backend developer with a love for building efficient, scalable, and secure applications using **Node.js**, **Express**, **MongoDB**, and **Redis**.
 
