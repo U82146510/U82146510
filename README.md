@@ -18,6 +18,7 @@ I'm a passionate backend developer with a love for building efficient, scalable,
 - MongoDB, Mongoose, Redis
 - Docker, Nginx
 - OpenAI API (ChatGPT, embeddings, vector search)
+- DeepSeek
 - Telegram Bot API (grammY)
 
 ## 💞️ I’m looking to collaborate on:
