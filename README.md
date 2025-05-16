@@ -31,6 +31,7 @@ I'm a passionate backend developer with a love for building efficient, scalable,
 - Instagram: [@maxmadgb](https://www.instagram.com/maxmadgb/)
 - Fiverr: [fiverr.com/s/BR35DGW](https://www.fiverr.com/s/BR35DGW)
 - GitHub: [@U82146510](https://github.com/U82146510)
+- Mail: diaconu.sandu@protonmail.com
 
 ## ⚡ Fun fact:
 > I can build a Telegram bot that feels like you're chatting with a real person — powered by AI and backed by a custom vector search engine. 🤯
