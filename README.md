@@ -14,7 +14,7 @@ I'm a passionate backend developer with a love for building efficient, scalable,
 
 ## 💻 Tech Stack:
 - JavaScript / TypeScript
-- Node.js, Express.js
+- Node.js, Express.js, WebSocket
 - MongoDB, Mongoose, Redis
 - Docker, Nginx
 - OpenAI API (ChatGPT, embeddings, vector search)
